@@ -471,6 +471,7 @@ font-size: 2em;
   text-align: center;
   text-decoration: none;
   border-radius: 50%;
+  margin-right: 0.2cm;
 }
 
 
@@ -502,3 +503,46 @@ font-size: 2em;
   background: #bd2c00;
   color: white;
 }
+
+
+
+/* #counter {
+  align-items: center;
+  width: 150px;
+  height: 20px;
+  background-color: rgb(49, 0, 196);
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  transition: 0.5s;
+} */
+
+#counter {
+  background-color: #393b3a;
+  height: 50px;
+  width: 80px;
+  color: white;
+  border-radius: 30px;
+  font-weight: 700;
+  font-size: 25px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* #reset {
+  margin-top: 20px;
+  background-color: #393b3a;
+  cursor: pointer;
+  font-size: 18px;
+  padding: 8px 20px;
+  color: white;
+  border: 0;
+} */
