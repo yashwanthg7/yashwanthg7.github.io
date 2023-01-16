@@ -523,10 +523,10 @@ font-size: 2em;
 } */
 
 #counter {
-  background-color: #393b3a;
+  background-color: #e61111;
   height: 50px;
   width: 80px;
-  color: white;
+  color: rgb(15, 14, 14);
   border-radius: 30px;
   font-weight: 700;
   font-size: 25px;
