@@ -13,6 +13,6 @@ function updateCounter() {
         count = parseInt(count) + 1;
     }
     localStorage.setItem('visiterCount', count);
-    counter.innerHTML = `Vistor Count: ${localStorage.getItem('visiterCount')}`;
+    counter.innerHTML = `Vistor Count : ${localStorage.getItem('visiterCount')}`;
 }
 updateCounter();
