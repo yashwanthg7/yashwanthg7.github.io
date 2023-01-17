@@ -506,7 +506,7 @@ font-size: 2em;
 
 
 
-/* #counter {
+#counter {
   align-items: center;
   width: 150px;
   height: 20px;
@@ -520,8 +520,8 @@ font-size: 2em;
   padding: 20px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   transition: 0.5s;
-} */
-
+} 
+/* 
 #counter {
   background-color: #3b3a39;
   height: 50px;
@@ -539,7 +539,7 @@ font-size: 2em;
   box-shadow: 0 0 10px #ffffff;
   padding: 20px;
   transition: 0.5s;
-}
+} */
 
 /* #reset {
   margin-top: 20px;
